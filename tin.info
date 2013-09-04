@@ -1,0 +1,28 @@
+name = tin profile
+description = Localised site profile
+
+
+api = 2
+core = 7.x
+
+
+dependencies[] = contextual
+dependencies[] = help
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = file
+dependencies[] = taxonomy
+
+dependencies[] = admin_menu
+dependencies[] = features
+dependencies[] = field_ui
+dependencies[] = image
+dependencies[] = views
+
+dependencies[] = i18n
+dependencies[] = i18n_string
+dependencies[] = i18n_field
+dependencies[] = l10n_update
